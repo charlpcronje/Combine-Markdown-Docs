@@ -49,6 +49,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 [MIT](link-to-your-license-file)
 
 ## Contact
-Charl Cronje
-Email: charl.cronje@mail.com
-Project Link: [https://github.com/charlpcronje/Combine-Markdown-Docs.git](https://github.com/charlpcronje/Combine-Markdown-Docs.git)
+- Author: Charl Cronje
+- Email: charl.cronje@mail.com
+- LinkedIn: [https://www.linkedin.com/in/charlpcronje](https://www.linkedin.com/in/charlpcronje/)
+- GitHub Link: [https://github.com/charlpcronje/Combine-Markdown-Docs.git](https://github.com/charlpcronje/Combine-Markdown-Docs.git)
