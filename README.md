@@ -35,6 +35,8 @@ Create a `projectDocs.json` file in the same directory as the script with the fo
 }
 ```
 
+[View Example JSON File](./projectDocs.json)
+
 - `files`: Array of file paths to exclude from the combining process.
 - `folders`: Array of folder paths to exclude from the combining process.
 

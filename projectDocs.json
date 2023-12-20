@@ -1,0 +1,10 @@
+{
+    "files": [
+        "example_folder/excluded_file.md",
+        "another_folder/another_excluded_file.md"
+    ],
+    "folders": [
+        "excluded_folder",
+        "another_excluded_folder"
+    ]
+}
